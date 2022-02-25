@@ -27,7 +27,7 @@ body {
     background-color:red;
 }
 .span-two{
-    grid-column: span 2;
+    grid-column: span 1;
 }
 .output{
     grid-column: 1/-1;
